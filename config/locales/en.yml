@@ -35,4 +35,21 @@ en:
   contact: "Contact"
   help: "Help"
   home: "Sample App"
+  basetitle: "Ruby on Rails Tutorial Sample App"
+  content_p: "This is the home page for the %{links} sample application."
+  a_href: Ruby on Rails Tutorial
+  content_p_help: "Get help on the Ruby on Rails Tutorial at the
+  %{link1} . To get help on this sample app, see the %{link2} ."
+  a_href_help1: Rails Tutorial help section
+  a_href_help2: Ruby on Rails Tutorial book
+  content_p_contact: "Contact the Ruby on Rails Tutorial about the sample app at the %{links} ."
+  a_href_contact: "contact page"
+  content_p_about: "The %{link1} is a %{link2} and %{link3} to teach web development with
+  %{link4}. This is the sample application for the tutorial."
+  a_href_about1: "Ruby on Rails Tutorial"
+  a_href_about2: "book"
+  a_href_about3: "screencast series"
+  a_href_about4: "Ruby on Rails"
+
+
 
