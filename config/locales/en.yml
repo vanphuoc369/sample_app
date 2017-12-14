@@ -33,8 +33,13 @@ en:
   hello: "Hello world"
   about: "About"
   contact: "Contact"
+  home_li: "Home"
+  news: "News"
+  log: "Log in"
   help: "Help"
-  home: "Sample App"
+  sample_app: "sample app"
+  btn_signup: "Sign up now!"
+  home: "Welcome to the Sample App"
   basetitle: "Ruby on Rails Tutorial Sample App"
   content_p: "This is the home page for the %{links} sample application."
   a_href: Ruby on Rails Tutorial
@@ -50,6 +55,13 @@ en:
   a_href_about2: "book"
   a_href_about3: "screencast series"
   a_href_about4: "Ruby on Rails"
+  content_a_footer: "The %{link1} by %{link2} "
+  a_href_footer1: "Ruby on Rails Tutorial"
+  a_href_footer2: "Michael Hartl"
+  signup: "Sign up"
+  content_p_sign: "This will be a signup page for new users."
+  alt_img_cat: "Cat"
+  alt_img_logo_rails: "Rails logo"
 
 
 

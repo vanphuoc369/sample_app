@@ -1,0 +1,12 @@
+<footer class="footer">
+  <small>
+    <%= t(:content_a_footer, link1: link_to(t :a_href_footer1), link2: link_to(t :a_href_footer2)).html_safe %>
+  </small>
+  <nav>
+    <ul>
+      <li><%= link_to (t :about), about_path %></li>
+      <li><%= link_to (t :contact), contact_path %></li>
+      <li><a href="http://news.railstutorial.org/"><%= t :news %></a></li>
+    </ul>
+  </nav>
+</footer>
