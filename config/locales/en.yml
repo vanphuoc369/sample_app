@@ -62,6 +62,10 @@ en:
   content_p_sign: "This will be a signup page for new users."
   alt_img_cat: "Cat"
   alt_img_logo_rails: "Rails logo"
+  create_acc: "Create my account"
+  notify_error: "The form contains %{count_error} ."
+  notify_success: "Welcome to the Sample App!"
+  err_find_user: "Not found. You can create a new account"
 
 
 
