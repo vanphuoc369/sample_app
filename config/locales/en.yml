@@ -37,6 +37,11 @@ en:
   news: "News"
   log: "Log in"
   help: "Help"
+  account: "Account"
+  profile: "Profile"
+  settings: "Settings"
+  log_out: "Log out"
+  users: "Users"
   sample_app: "sample app"
   btn_signup: "Sign up now!"
   home: "Welcome to the Sample App"
@@ -65,6 +70,8 @@ en:
   create_acc: "Create my account"
   notify_error: "The form contains %{count_error} ."
   notify_success: "Welcome to the Sample App!"
+  content_p_session_new: "New user? %{link} "
+  notify_session: "Invalid email/password combination"
   err_find_user: "Not found. You can create a new account"
 
 
