@@ -73,6 +73,8 @@ en:
   content_p_session_new: "New user? %{link} "
   notify_session: "Invalid email/password combination"
   err_find_user: "Not found. You can create a new account"
+  text_remember: "Remember me on this computer"
+  pass: "password"
 
 
 
