@@ -16,10 +16,9 @@ end
 module ActionDispatch
   class IntegrationTest
     # Log in as a particular user.
-    def log_in_as user, password: t(:pass), remember_me: Settings.one.to_s
+    def log_in_as user, password: "password", remember_me: Settings.one.to_s
       post login_path, params: {session: {email: user.email,
-                                          password: password,
-                                          remember_me: remember_me}}
+                                          password: password, remember_me: remember_me}}
     end
   end
 end

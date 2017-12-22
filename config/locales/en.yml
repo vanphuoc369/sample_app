@@ -42,6 +42,7 @@ en:
   settings: "Settings"
   log_out: "Log out"
   users: "Users"
+  edit_user: "Edit user"
   sample_app: "sample app"
   btn_signup: "Sign up now!"
   home: "Welcome to the Sample App"
@@ -75,6 +76,15 @@ en:
   err_find_user: "Not found. You can create a new account"
   text_remember: "Remember me on this computer"
   pass: "password"
+  h1_edit_user: "Update your profile"
+  btn_save: "Save changes"
+  change: "change"
+  notify_update_success: "Profile updated"
+  notify_login: "Please log in."
+  all_user: "All users"
+  notify_del_success: "User deleted"
+  delete: "Delete"
+  notify_confirm: "You sure?"
 
 
 

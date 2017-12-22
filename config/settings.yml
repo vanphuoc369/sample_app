@@ -3,4 +3,5 @@ max_length_email: 250
 min_length_pass: 5
 size: 80
 checkbox_remember_1: 1
+size_gravatar: 50
 
