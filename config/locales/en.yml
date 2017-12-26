@@ -94,6 +94,21 @@ en:
   activate_account_message: "Account not activated.
     Check your email for the activation link."
   subject: "Account activation"
+  a_href_forgot_pass: "( %{text} )"
+  forgot_pass: "Forgot password"
+  btn_submit: "Submit"
+  notify_sent_require_reset_pass: "Email sent with password reset instructions"
+  notify_not_found_email: "Email address not found"
+  password_reset: "Password reset"
+  content_p_password_reset: "To reset your password click the link below: <br>
+    %{text} <br> This link will expire in two hours. <br> If you did not request your password
+    to be reset, please ignore this email and your password will stay as it is."
+  reset_pass: "Reset password"
+  btn_update_password: "Update password"
+  notify_password_expired: "Password reset has expired."
+  notify_reset_pass_success: "Password has been reset."
+  error_password_empty: "can't be empty"
+  confirmation: "Confirmation"
 
 
 

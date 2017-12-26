@@ -25,4 +25,8 @@ class ApplicationController < ActionController::Base
   def find_user_by_id user_id: params[:id]
     @user = User.find_by id: user_id
   end
+
+  def find_user_by_email user_email: params[:email]
+    @user = User.find_by email: user_email
+  end
 end
