@@ -43,7 +43,7 @@ en:
   log_out: "Log out"
   users: "Users"
   edit_user: "Edit user"
-  sample_app: "sample app"
+  sample_app: "Sample App"
   btn_signup: "Sign up now!"
   home: "Welcome to the Sample App"
   basetitle: "Ruby on Rails Tutorial Sample App"
@@ -85,6 +85,15 @@ en:
   notify_del_success: "User deleted"
   delete: "Delete"
   notify_confirm: "You sure?"
+  p_content_activation: "Hi %{name}, <br> Welcome to the Sample App!
+   Click on the link below to activate your account:"
+  a_href_activate: "Activate"
+  notify_activate_account: "Please check your email to activate your account."
+  notify_activate_account_success: "Account activated!"
+  notify_activate_account_fail: "Invalid activation link"
+  activate_account_message: "Account not activated.
+    Check your email for the activation link."
+  subject: "Account activation"
 
 
 
