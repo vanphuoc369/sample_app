@@ -9,6 +9,7 @@ class UsersController < ApplicationController
   end
 
   def show
+    @microposts = @user.microposts.created_at_desc.paginate page: params[:page]
     return unless @user.nil?
     flash[:danger] = t(:err_find_user)
     redirect_to signup_path

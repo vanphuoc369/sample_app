@@ -4,4 +4,5 @@ min_length_pass: 5
 size: 80
 checkbox_remember_1: 1
 size_gravatar: 50
+max_length_content: 140
 

@@ -109,6 +109,17 @@ en:
   notify_reset_pass_success: "Password has been reset."
   error_password_empty: "can't be empty"
   confirmation: "Confirmation"
+  content_microposts: "Microposts (%{count})"
+  content_timestamp: "Posted %{time} ago."
+  micropost: "micropost"
+  a_href_view_profile: "view my profile"
+  btn_post: "Post"
+  placeholder_text_area_micropost: "Compose new micropost..."
+  notify_create_micropost_success: "Micropost created!"
+  micropost_feed: "Micropost Feed"
+  notify_del_micropost_success: "Micropost deleted"
+  notify_picture_size: "should be less than 1.5MB"
+  alert_picture_size: "Maximum file size is 1.5MB. Please choose a smaller file."
 
 
 
